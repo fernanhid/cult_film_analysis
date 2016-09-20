@@ -1,6 +1,6 @@
-# cult_film_analysis
+# predicting_cult_films
 
- My project aims to built build a regression model to predict which movies will become cult hits. For this project, the definition of a movie that is: <b> one that is loved by critics but has very low attendance </b>. My method was to identify a critic that regularly rates cult movies highly and predict his Metacritic rating.
+ My project aims to built build a regression model to predict which movies will become cult hits. For this project, the definition of a cult movie is: <b> a movie that is loved by critics but has very low attendance </b>. My method was to identify a critic that regularly rates cult movies highly and predict his Metacritic rating.
  
 Here are my steps:
 
