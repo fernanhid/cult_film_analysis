@@ -10,12 +10,12 @@ Here are my steps:
 4. Scrape/Clean his reviews from Metacritic
 5. Explore/ Build Regression Model
 
-The best model I found was the Regression Model with Lasso Regularization which improved ~8% over the baseline. The most predictive features were:
+The best model I found was the Regression Model with Lasso Regularization which improved ~8% over the baseline. The most predictive features were:<br>
 
-1. When it was released in January
-2. When it was released in October
-3. When the genre was Drama
-4. When the genre was Mystery
-5. When the Genre was Biography
+a. When it was released in January<br>
+b. When it was released in October<br>
+c. When the genre was Drama<br>
+d. When the genre was Mystery<br>
+e. When the Genre was Biography<br>
 
 I look forward for any feedback and if there is any other creative methods to approach this problem!
