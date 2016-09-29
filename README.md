@@ -18,4 +18,4 @@ c. When the genre was Drama<br>
 d. When the genre was Mystery<br>
 e. When the Genre was Biography<br>
 
-I look forward for any feedback and if there is any other creative methods to approach this problem!
+I look forward for any feedback or if there is any other creative methods to approach this problem!
